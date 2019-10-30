@@ -1,4 +1,5 @@
-Initial Content
+Initial Content plus some content for branch
 
 Adding more content. Some more in the same line.
-More in the next immediate line
+
+removed moved previous line 
