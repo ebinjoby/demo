@@ -1,4 +1,12 @@
-Initial Content
+Initial Content adding conflict to see what happens
 
-Adding more content. Some more in the same line.
+Adding more content.
 More in the next immediate line
+
+
+
+
+
+
+
+this line shouldn't conflict with anything!
