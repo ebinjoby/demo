@@ -10,3 +10,14 @@ just a thingy here and adding a different thingy here
 
 
 this line shouldn't conflict with anything!
+
+keeping both
+
+Initial Content plus some content for branch
+
+Adding more content. Some more in the same line.
+
+removed moved previous line
+
+
+just added one more line here for fun
