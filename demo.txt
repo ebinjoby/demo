@@ -5,8 +5,6 @@ adding conflict to see what happens
 
 just a thingy here and adding a different thingy here
 
-
-
 this line shouldn't conflict with anything!
 
 bojack
@@ -15,10 +13,13 @@ bojack
 just added one more line here for fun
 
 
-final thing. Ok maybe one more coz I love GIT! :D
+final thing.
 
 its halloweeeeeeeeen
 
 but im codinnnnnnn
 
 weeeeeeeeeeeee
+
+
+Ok maybe one more coz I love GIT! :D
