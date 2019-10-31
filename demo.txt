@@ -1,8 +1,6 @@
-Initial Content adding conflict to see what happens
+Initial Content
 
-Adding more content.
-More in the next immediate line
-
+adding conflict to see what happens
 
 
 just a thingy here and adding a different thingy here
@@ -11,16 +9,16 @@ just a thingy here and adding a different thingy here
 
 this line shouldn't conflict with anything!
 
-keeping both
-
-Initial Content plus some content for branch
-
-Adding more content. Some more in the same line.
-
-removed moved previous line
+bojack
 
 
 just added one more line here for fun
 
 
 final thing. Ok maybe one more coz I love GIT! :D
+
+its halloweeeeeeeeen
+
+but im codinnnnnnn
+
+weeeeeeeeeeeee
