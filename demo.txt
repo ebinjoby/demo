@@ -8,4 +8,8 @@ just a thingy here and adding a different thingy here
 testing out push, pull
 
 
+
+want to see what git fetch does so here we go!
+
+
 Ok maybe one more coz I love GIT! :D
